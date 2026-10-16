@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Jupyter
+.ipynb_checkpoints/
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+# Datasets (add only if distribution rights and privacy checks allow)
+**/data/*.csv
+# Generated outputs
+**/results/outputs/*.csv
+**/results/eda_visualizations/*.png
